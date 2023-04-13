@@ -1,3 +1,5 @@
+![build](https://github.com/valkolaci/nginx-ldap/actions/workflows/build.yml/badge.svg)
+
 # About
 
 The nginx-ldap Docker image provides a container, that contains a
